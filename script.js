@@ -7,3 +7,4 @@ window.addEventListener('scroll', () => {
 
     scrollIndicator.style.height = `${scrollPercent}%`;
 });
+
